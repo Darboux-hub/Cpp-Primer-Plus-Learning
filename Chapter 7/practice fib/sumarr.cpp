@@ -51,10 +51,6 @@ double Arsum(const double ar[], size_t size)
     }
     return ar[0] + Arsum(ar+1,size-1);
 }
- */
-
-
-
 
     /* double star[Size];
     for(int i = 0; i < Size; i++)
